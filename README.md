@@ -5,11 +5,6 @@ Hi there! 👋
 
 - 📧 Email: [nadaasriyasdana@gmail.com](mailto:nadaasriyasdana@gmail.com)
 - 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/nadaysdn/)
-  <ul>
-  <li><i class="fas fa-envelope"></i> <a href="mailto:nadaasriyasdana@gmail.com">nadaasriyasdana@gmail.com</a></li>
-  <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/nadaysdn">LinkedIn Profile</a></li>
-  <li><i class="fab fa-github"></i> <a href="https://github.com/nadaysdn">GitHub Profile</a></li>
-</ul>
 
 ### Working Experiences
 #### *Data Analyst, PT. Tempo Infomedia Digital <span style="float:right;">Jun 2022 - Present</span>*
